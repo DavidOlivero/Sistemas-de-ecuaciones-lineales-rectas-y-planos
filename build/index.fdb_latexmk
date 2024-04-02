@@ -1,10 +1,22 @@
 # Fdb version 4
-["xdvipdfmx"] 1712080073.17608 "build/index.xdv" "build/index.pdf" "build/index" 1712080073.48524 0
-  "build/index.xdv" 1712080073 9056 2614115347edb6d0211625f39ad3d7c3 "xelatex"
+["xdvipdfmx"] 1712085344.66975 "build/index.xdv" "build/index.pdf" "build/index" 1712085345.00111 0
+  "build/index.xdv" 1712085344 4468 520a50b94ba9ac03c067f913c9f00104 "xelatex"
   (generated)
   "build/index.pdf"
   (rewritten before read)
-["xelatex"] 1712080072.34552 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Algebra lineal/Tarea 3/Sistemas de ecuaciones lineales, rectas y planos/index.tex" "build/index.xdv" "index" 1712080073.48218 0
+["xelatex"] 1712085343.86141 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Algebra lineal/Tarea 3/Sistemas de ecuaciones lineales, rectas y planos/index.tex" "build/index.xdv" "index" 1712085344.99728 0
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1707324350 146276 10a40dabec03ce18494af0c3a51bcbdc ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1707324351 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-spanish.tex" 1707324351 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
@@ -13,6 +25,11 @@
   "C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty" 1643997108 488 4565444a3e75e59cb2702dc42e18f482 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsbsy.sty" 1686931788 2222 499d61426192c39efd8f410ee1a52b9c ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsgen.sty" 1686931787 4173 82ac04dfb1256038fad068287fbb4fe6 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsmath.sty" 1686931788 88371 d84032c0f422c3d1e282266c01bef237 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsopn.sty" 1686931788 4474 b811654f4bf125f11506d13d13647efb ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amstext.sty" 1686931788 2444 0d0c1ee65478277e8015d65b86983da2 ""
   "C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Program Files/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
   "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
@@ -41,11 +58,12 @@
   "C:/Program Files/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Program Files/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546510394 5871 8a29af4ad9d707b5280738995d050842 ""
   "C:/Users/daeno/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1710466391 37547368 9bf9fbdbbba96bbd00f79e5940d2649f ""
-  "build/index.aux" 1712080073 288 1f206c1914dd1f0266d3a52efeec7efb "xelatex"
-  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Algebra lineal/Tarea 3/Sistemas de ecuaciones lineales, rectas y planos/index.tex" 1712080071 176 3def8c1e75d51202ebbad9377225ebff ""
-  "config/imports.tex" 1712078938 139 4f09d5fa08e719e5c7b8542173d21692 ""
+  "build/index.aux" 1712085344 361 f7073bcc71db0c0a6f7b1e7fb04ac490 "xelatex"
+  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Algebra lineal/Tarea 3/Sistemas de ecuaciones lineales, rectas y planos/index.tex" 1712081925 177 73fb98ec2080d0fac6c79edb5cd8f9c8 ""
+  "config/imports.tex" 1712085342 161 466d28cf9d3d01b101bb05439cccc4fe ""
   "config/paper.tex" 1712078938 142 1bcd873cc5cc6ad9a07ae60311dd101e ""
-  "index.tex" 1712080071 176 3def8c1e75d51202ebbad9377225ebff ""
+  "content/exercise1.tex" 1712085342 502 dbe70d6e36b177af543eb1ecbd69e3a6 ""
+  "index.tex" 1712081925 177 73fb98ec2080d0fac6c79edb5cd8f9c8 ""
   (generated)
   "build/index.aux"
   "build/index.log"
