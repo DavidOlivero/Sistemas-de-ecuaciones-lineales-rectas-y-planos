@@ -92,6 +92,9 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT .\config\paper.tex
 INPUT .\config\paper.tex
 INPUT config\paper.tex
+INPUT .\config\graphicxconfigs.tex
+INPUT .\config\graphicxconfigs.tex
+INPUT config\graphicxconfigs.tex
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
