@@ -1,0 +1,93 @@
+PWD c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos
+INPUT C:\Users\daeno\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
+INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\index.tex
+OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT .\config\imports.tex
+INPUT .\config\imports.tex
+INPUT config\imports.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\xebabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xltxtra\xltxtra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xltxtra\xltxtra.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\realscripts\realscripts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\realscripts\realscripts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\metalogo\metalogo.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\metalogo\metalogo.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT .\config\paper.tex
+INPUT .\config\paper.tex
+INPUT config\paper.tex
+INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
+INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
+INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
+OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmr.fd
+OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.xdv
+INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
