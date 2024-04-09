@@ -7,6 +7,9 @@ INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT .\config\constants.tex
+INPUT .\config\constants.tex
+INPUT config\constants.tex
 INPUT .\config\imports.tex
 INPUT .\config\imports.tex
 INPUT config\imports.tex
@@ -117,5 +120,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\img\geogebra1.png
+INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\img\geogebra1.png
 OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.xdv
+INPUT .\content\exercise2.tex
+INPUT .\content\exercise2.tex
+INPUT content\exercise2.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Algebra lineal\Tarea 3\Sistemas de ecuaciones lineales, rectas y planos\build\index.aux
